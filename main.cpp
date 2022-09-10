@@ -32,6 +32,7 @@ int main()
 
     std::cout << "Atlag: " << atlag << std::endl;
 
+    std::cout << "Gergő reviewed Dani's code!\n";
 
     return 0;
 }
